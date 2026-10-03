@@ -8,7 +8,6 @@ I’m currently sharpening my programming skills as I continue my career. My lea
   <a href="https://www.diaznugraha.my.id/"><img src="https://img.shields.io/badge/Portfolio-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
   <a href="mailto:diaznugraha00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/diaz-nugraha-820342246/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
-  <a href="https://x.com/NugrahaDiaz_"><img src="https://img.shields.io/twitter/url?style=for-the-badge&logo=x&logoColor=white&labelColor=3F4F44" alt="X" /></a>
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" alt="about me gif" width="270" />
