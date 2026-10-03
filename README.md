@@ -12,7 +12,7 @@ I’m currently sharpening my programming skills as I continue my career. My lea
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" alt="about me gif" width="270" />
 
-## About me :mortar_board:
+<h3>About Me :mortar_board:</h3>
 
 - Interested in Web and Mobile applications, Cybersecurity, and Internet of Things.
 - I have worked professionally for 3+ years, with some freelance in between.
@@ -20,7 +20,7 @@ I’m currently sharpening my programming skills as I continue my career. My lea
 - Love to talk about ideas, especially around tech and startups.
 - Continuously improving through projects, documentation, experiments, and collaboration.
 
-## Goals :rocket:
+<h3>Goals :rocket:</h3>
 
 - Getting into habit of writing more often on my website about discoveries, issues, and personal thoughts.
 - Sharpening my skills in deployments, CI/CD, and Application Security.
